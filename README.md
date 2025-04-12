@@ -1,3 +1,4 @@
+--sql
 create database db_kasir_xiirpl_satya_laksamana_wahyurianto ;
 use db_kasir_xiirpl_satya_laksamana_wahyurianto
 create table pelanggan ( 
